@@ -1,0 +1,51 @@
+[
+  {
+    "id": 0,
+    "title" : "Sanity Pills",
+    "value" : 6,
+    "description" : "Description of Sanity Pills",
+    "stackable": true,
+    "slug": "sanity_pills"
+  },
+  {
+    "id": 1,
+    "title" : "Morphine",
+    "value" : 2,
+    "description" : "Description of Morphine",
+    "stackable": true,
+    "slug": "morphine"
+  },
+  {
+    "id": 2,
+    "title" : "Powerbank",
+    "value" : 2,
+    "description" : "Description of Powerbank",
+    "stackable": true,
+    "slug": "powerbank"
+  },
+  {
+    "id": 3,
+    "title" : "Cellphone",
+    "value" : 2,
+    "description" : "Description of Cellphone",
+    "stackable": false,
+    "slug": "cellphone"
+  },
+  {
+    "id": 4,
+    "title" : "Adrenaline",
+    "value" : 2,
+    "description" : "Description of Adrenaline",
+    "stackable": true,
+    "slug": "adrenaline"
+  },
+  {
+    "id": 5,
+    "title" : "Key",
+    "value" : 2,
+    "description" : "Description of Key",
+    "stackable": false,
+    "slug": "key"
+  }
+
+]
